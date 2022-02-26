@@ -1,5 +1,6 @@
 
 #This class converts integer numbers to roman numbers
+#Integer to Roman was implemented by swanandsv using jupyter IDE in python.
 
 class IntegerToClass:
     def IntegrToRomanConversion(self, num: int) -> str:
@@ -24,6 +25,7 @@ class IntegerToClass:
                     num -= keys
         return result
 
+# Roman to Integer was implemented by Shawal
 # Python - IDE, Editor, Compiler, Interpreter
 #used python online beta IDE
 #convert roman number to integer
