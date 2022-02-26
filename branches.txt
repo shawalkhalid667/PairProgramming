@@ -1,0 +1,6 @@
+  main
+* swanandsv
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+  remotes/origin/shawal_khalid
+  remotes/origin/swanandsv
